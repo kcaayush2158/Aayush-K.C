@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Aayush K.C</h1>
+<h1 align="center">Hi 👋, I'm Aayush K.C</h1>
 <h3 align="center">A software engineer on JDK and JEE platform. I am passionate about Java technology and always an explorer and learner in new technologies in Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcaayush2158&label=Profile%20views&color=0e75b6&style=flat" alt="kcaayush2158" /> </p>
