@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush K.C</h1>
-<h3 align="center">A software engineer on JDK and JEE platform. I am passionate about Java technology and always an explorer and learner in new technologies in Java</h3>
+<h3 align="center">A software engineer on JDK and JEE platform. I am passionate about Java technology and always an explorer and learner in new technologies in Java
+</h3>
 
 <hr>
 <p align="center"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300">
