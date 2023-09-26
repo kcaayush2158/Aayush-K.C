@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aayush K.C</h1>
 <h3 align="center">A software engineer on JDK and JEE platform. I am passionate about Java technology and always an explorer and learner in new technologies in Java</h3>
 <hr>
-<p align="center"><img style="display:flex;justify-content: center;" src="https://static.vecteezy.com/system/resources/previews/005/611/079/original/businessman-designing-a-website-by-coding-on-a-desktop-computer-images-for-web-banners-free-vector.jpg](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500" height="400">
+<p align="center"><img style="display:flex;justify-content: center;" src="https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif" width="600" height="400">
 </p>
 <br><br>
 <div class="row">
