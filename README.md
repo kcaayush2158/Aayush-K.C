@@ -1,16 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Aayush K.C</h1>
 <h3 align="center">A software engineer on JDK and JEE platform. I am passionate about Java technology and always an explorer and learner in new technologies in Java</h3>
-
-<center><img style="display:flex;justify-content: center;" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="1000" height="600">
-</center>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kcaayush2158&label=Profile%20views&color=0e75b6&style=flat" alt="kcaayush2158" /> </p>
+<hr>
+<p align="center"><img style="display:flex;justify-content: center;" src="https://static.vecteezy.com/system/resources/previews/005/611/079/original/businessman-designing-a-website-by-coding-on-a-desktop-computer-images-for-web-banners-free-vector.jpg](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500" height="400">
+</p>
+<br><br>
+<div class="row">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcaayush2158&label=Profile%20views&color=0e75b6&style=flat" alt="kcaayush2158" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kcaayush2158" alt="kcaayush2158" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kcaayush2158" target="blank"><img src="https://img.shields.io/twitter/follow/kcaayush2158?logo=twitter&style=for-the-badge" alt="kcaayush2158" /></a> </p>
+</div>
+
 
 - 🔭 I’m currently working on **Deerhold**
 
