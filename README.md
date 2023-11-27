@@ -10,7 +10,7 @@
    <p align="left"> <a href="https://twitter.com/kcaayush2158" target="blank"><img src="https://img.shields.io/twitter/follow/kcaayush2158?logo=twitter&style=for-the-badge" alt="kcaayush2158" /></a> </p>
 </div>
 
-- 🔭 I’m currently working on **Deerhold**
+- 🔭 I’m currently working on **Deerhold** / **Alight**
 - 🌱 I’m currently learning **Kubernetes, Angular SSR**
 - 👨‍💻 All of my projects are available at [https://github.com/kcaayush2158?tab=repositories](https://github.com/kcaayush2158?tab=repositories)
 - 💬 Ask me about **Angular , Sprint Boot**
