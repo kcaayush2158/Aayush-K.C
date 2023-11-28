@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **Deerhold** / **Alight**
 - 🌱 I’m currently learning **Kubernetes, Angular SSR**
 - 👨‍💻 All of my projects are available at [https://github.com/kcaayush2158?tab=repositories](https://github.com/kcaayush2158?tab=repositories)
-- 💬 Ask me about **Angular , Sprint Boot**
+- 💬 Ask me about **Angular , Spring Boot**
 - 📫 How to reach me **aayushkc2158@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
